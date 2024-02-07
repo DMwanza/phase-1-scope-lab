@@ -13,3 +13,4 @@ const leastFavoriteCustomer="string"
 function changeLeastFavoriteCustomer(){
     leastFavoriteCustomer="Jacob"
 }
+// function
